@@ -1,8 +1,6 @@
 # DAATF
 Few-Shot Underwater Acoustic Target Recognition Using Domain Adaptation and Knowledge Distillation (under review)
-![image](https://github.com/user-attachments/assets/a5e9ce9a-c1a7-44e3-8546-fbba8a1fbb6b)
-
-
+![](.\figure\DAATF.png) 
 
 ## Performance comparison with baselines on addressing few-shot classification tasks
 
